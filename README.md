@@ -9,7 +9,7 @@ Adaptable and learning oriented aspiring FullStack Developer ,eagerly looking to
 * 🌍  I'm based in Salem, TamilNadu ,India.
 * 🖥️  See my portfolio at [Portfolio](http://portfolio-rieor24fw-anwardeenm.vercel.app/#/)
 * ✉️  You can contact me at [kalilanwar597@gmail.com](mailto:kalilanwar597@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm Aspiring MERN Stack Developer.
 
 ### Skills
 
